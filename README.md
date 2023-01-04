@@ -24,7 +24,7 @@
 
 :books: I will be learning Tailwind, Laravel, Angular and React
 
-:zap: In my free time, I solve problems on GeeksforGeeks/leetcode and do CTFs.
+:zap: In my free time, I like to do small projects to learn new things and do CTFs.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Ghanem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghanem-lamloumi/) [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:Ghanem.lamloumi1@gmail.com)
 
